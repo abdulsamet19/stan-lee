@@ -6,6 +6,7 @@ body{
     background-color: black;
     color: white;
 }
+
 .container{
     background-color: rgb(43, 41, 41);
     width: 80%;
@@ -37,7 +38,7 @@ body{
 }
 
 #marvel{
-    color: red;
+    color: rgb(71, 96, 102);
     margin-left: 10%;
 }
 ul{
